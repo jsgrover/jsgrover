@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jsgrover
 - 👀 I’m interested in AI applications
-- 🌱 I’m currently learning AI application
-- 💞️ I’m looking to collaborate on AI applicaiton
+- 🌱 I’m currently learning about making AI applications
+- 💞️ I’m looking to collaborate on AI applications
 - 📫 How to reach me jonathan.s.grover@intel.com
 
 <!---
